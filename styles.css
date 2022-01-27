@@ -31,4 +31,11 @@ nav {
 nav a {
   display: inline-block;
   background-color: turquoise;
+  height: 23px;
+  width: 400px;
+  line-eight: 386px;
+  font-size: 1.5em;
+  color: white;
+  text-decoration: none;
+  
 }
